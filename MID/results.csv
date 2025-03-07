@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741331772809,457,HTTP Request,200,OK,User Simulation 1-2,text,true,,1601,114,2,2,https://example.com/,453,0,352
+1741331772503,764,HTTP Request,200,OK,User Simulation 1-1,text,true,,1601,114,2,2,https://example.com/,758,0,660
+1741331773308,247,HTTP Request,200,OK,User Simulation 1-3,text,true,,1601,114,1,1,https://example.com/,247,0,172
+1741331773806,275,HTTP Request,200,OK,User Simulation 1-4,text,true,,1601,114,1,1,https://example.com/,275,0,186
+1741331774306,254,HTTP Request,200,OK,User Simulation 1-5,text,true,,1601,114,1,1,https://example.com/,253,0,170
+1741331774805,255,HTTP Request,200,OK,User Simulation 1-6,text,true,,1601,114,1,1,https://example.com/,255,0,174
+1741331775303,244,HTTP Request,200,OK,User Simulation 1-7,text,true,,1601,114,1,1,https://example.com/,244,0,169
+1741331775801,245,HTTP Request,200,OK,User Simulation 1-8,text,true,,1601,114,1,1,https://example.com/,245,0,169
+1741331776307,249,HTTP Request,200,OK,User Simulation 1-9,text,true,,1601,114,1,1,https://example.com/,249,0,170
+1741331776801,246,HTTP Request,200,OK,User Simulation 1-10,text,true,,1601,114,1,1,https://example.com/,246,0,171
